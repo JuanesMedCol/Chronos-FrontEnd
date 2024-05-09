@@ -1,3 +1,4 @@
-yarn install
-yarn run build
-yarn run start
+# Instrucciones
+* yarn install
+* yarn run build
+* yarn run start
